@@ -20,5 +20,8 @@ This course will introduce the learner to applied machine learning, focusing mor
 1. There is a main directory in this repository.
 2. All the Assignments and projects files in this course are present in Ipyton notebook format as well as html format.
 3. Subdirectory named [readonly](https://github.com/ahmadabdullah407/Applied-Machine-Learning-with-Python-Couse-Assignments/tree/main/readonly) contains all the necessary files needed for these assignments.
+# Final Course Project:
+- Final Project of this course is named as [Assignment+4](https://github.com/ahmadabdullah407/Applied-Machine-Learning-with-Python-Couse-Assignments/blob/main/Assignment%2B4.ipynb) as it was 4th assignment for the course as well.
+- In this Project, We created a function that trains a model to predict blight ticket compliance in Detroit using readonly/train.csv. Using this model,We returned a series of length 61001 with the data being the probability that each corresponding ticket from readonly/test.csv will be paid, and the index being the ticket_id.
 # Reason to upload:
 When I was doing this course, It helped me a lot in my understandings and concepts by comparing assignment approach i took and work done by other people. I am very hopefull that this would be the same for someone else.
